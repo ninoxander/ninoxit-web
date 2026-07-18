@@ -8,8 +8,6 @@ import { ProcessSection } from "@/components/ui/process";
 import { PortfolioSection } from "@/components/ui/portfolio-section";
 import { TestimonialsSection } from "@/components/ui/testimonials-section";
 
-import { Com}
-
 export default function Home() {
   return (
     <main>
