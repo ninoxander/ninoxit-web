@@ -27,7 +27,7 @@ return (
     <div className="relative order-2 lg:order-1">
         <div className="relative aspect-square overflow-hidden rounded-3xl shadow-2xl">
         <Image
-            src="/why-us.jpg"
+            src="https://krnupwtklnxyizwnsvcs.supabase.co/storage/v1/object/public/ninoxit.com/oficina_blob.png"
             alt="Oficina moderna trabajando en un dashboard digital"
             fill
             className="object-cover"
