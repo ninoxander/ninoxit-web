@@ -8,12 +8,19 @@ import { ProcessSection } from "@/components/ui/process";
 import { PortfolioSection } from "@/components/ui/portfolio-section";
 import { TestimonialsSection } from "@/components/ui/testimonials-section";
 
-import { ComingSoonSection } from "@/components/ui/comingsoon";
+import { Com}
 
 export default function Home() {
   return (
     <main>
-        <ComingSoonSection></ComingSoonSection>
+        <HeroSection></HeroSection>
+        <SiteHeader></SiteHeader>
+        <ServicesSection></ServicesSection>
+        <WhyUsSection></WhyUsSection>
+        <ProcessSection></ProcessSection>
+        <PortfolioSection></PortfolioSection>
+        <TestimonialsSection></TestimonialsSection>
+        <SiteFooter></SiteFooter>
     </main>
   );
 }
